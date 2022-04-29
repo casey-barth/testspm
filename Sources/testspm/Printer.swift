@@ -8,7 +8,7 @@
 import Foundation
 
 public class Printer {
-    func printHello() {
-        print("hello")
+    public func printHello() {
+        print(" hello ")
     }
 }
