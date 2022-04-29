@@ -13,4 +13,8 @@ public class Printer {
     public func printHello() {
         print(" hello ")
     }
+
+    public func printTest() {
+        print(" test ")
+    }
 }
