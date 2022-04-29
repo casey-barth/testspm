@@ -11,10 +11,10 @@ public class Printer {
     public init() { }
 
     public func printHello() {
-        print(" hello ")
+        print("hello")
     }
 
     public func printTest() {
-        print(" test ")
+        print("test")
     }
 }
