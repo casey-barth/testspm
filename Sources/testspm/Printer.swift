@@ -8,6 +8,8 @@
 import Foundation
 
 public class Printer {
+    public init() { }
+
     public func printHello() {
         print(" hello ")
     }
