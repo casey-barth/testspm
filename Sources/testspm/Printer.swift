@@ -18,7 +18,8 @@ public class Printer {
         print("test")
     }
 
-    public func printSimon() {
-        print("simon")
+    public func printCasey() {
+        print("casey")
     }
+
 }
